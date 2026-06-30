@@ -47,9 +47,9 @@
 
 <br />
 
-### 📊 My GitHub Statistics:
+### 📊 My GitHub Streak Stats:
 
-![Albert's GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Albertmnuel&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&border_radius=12&hide_border=true&count_private=true)
+![Albert's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Albertmnuel&theme=tokyonight&background=0F172A&ring=3B82F6&fire=3B82F6&sideNums=3B82F6&sideLabels=94A3B8&dates=94A3B8&hide_border=true)
 
 <br />
 
