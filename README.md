@@ -43,20 +43,16 @@
 
 ### 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albertmnuel&theme=react-dark&bg_color=0F172A&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true" width="100%" alt="Albert's Contribution Graph" />
-</div>
+![Albert's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Albertmnuel&theme=react-dark&bg_color=0F172A&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true)
 
 <br />
 
 ### 📊 My GitHub Statistics:
 
-<div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Albertmnuel&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&border_radius=12&hide_border=true&count_private=true" width="100%" alt="Albert's GitHub Stats" />
-</div>
+![Albert's GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Albertmnuel&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&border_radius=12&hide_border=true&count_private=true)
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Albertmnuel&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=3B82F6&text_color=94A3B8&border_radius=12&hide_border=true" width="100%" alt="Albert's Top Languages" />
-</div>
+### 💻 Top Languages:
+
+![Albert's Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Albertmnuel&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=3B82F6&text_color=94A3B8&border_radius=12&hide_border=true)
