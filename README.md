@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Albert Emmanuel</h1>
-<h3 align="center">Software developer specializing in frontend web technologies (HTML/CSS) and backend architectures using Java and MySQL. Dedicated to creating responsive web applications and efficient desktop systems.</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Albertmnuel&label=Profile%20views&color=0e75b6&style=flat" alt="Albertmnuel" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=HI%2C+I'M+ALBERT+EMMANUEL;SOFTWARE+DEVELOPER+%2F%2F+BUILDING+DIGITAL+ARCHITECTURE;$+npm+run+build+--prod" alt="Albert's Terminal Header" />
 </p>
 
+## 🖥️ ALBERT-EMMANUEL
+### Frontend & Backend Developer • Building Responsive Architectures
 ---
 
 ### 🚀 About Me
