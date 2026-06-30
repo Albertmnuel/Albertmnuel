@@ -33,5 +33,9 @@
 </p>
 
 <p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Albertmnuel&layout=compact&theme=tokyonight" alt="Top Languages Chart" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albertmnuel&theme=tokyonight" alt="Albert's Coding Streak" />
 </p>
