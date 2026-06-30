@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albert Emmanuel</h1>
 <h3 align="center">Software developer specializing in frontend web technologies (HTML/CSS) and backend architectures using Java and MySQL. Dedicated to creating responsive web applications and efficient desktop systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albertmnuel&label=Profile%20views&color=0e75b6&style=flat" alt="Albertmnuel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Albertmnuel&label=Profile%20views&color=0e75b6&style=flat" alt="Albertmnuel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Albertmnuel" alt="Albertmnuel" /></a> </p>
 
