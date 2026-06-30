@@ -41,13 +41,22 @@
 
 ---
 
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albertmnuel&theme=react-dark&bg_color=0F172A&color=3B82F6&line=3B82F6&point=60A5FA&area=true&hide_border=true" width="100%" alt="Albert's Contribution Graph" />
+</div>
+
+<br />
+
 ### 📊 My GitHub Statistics:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Total%20Contributions-183%20commits-brightgreen?style=for-the-badge&logo=github" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Main%20Stack-Java%20%7C%20MySQL%20%7C%20HTML%20%7C%20CSS-blue?style=for-the-badge" alt="Stack summary" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Albertmnuel&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&border_radius=12&hide_border=true&count_private=true" width="100%" alt="Albert's GitHub Stats" />
+</div>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albertmnuel&theme=tokyonight" alt="Albert's Coding Streak" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertmnuel&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=3B82F6&text_color=94A3B8&border_radius=12&hide_border=true" width="100%" alt="Albert's Top Languages" />
+</div>
