@@ -52,11 +52,11 @@
 ### 📊 My GitHub Statistics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albertmnuel&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&border_radius=12&hide_border=true&count_private=true" width="100%" alt="Albert's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Albertmnuel&show_icons=true&theme=tokyonight&bg_color=0F172A&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&border_radius=12&hide_border=true&count_private=true" width="100%" alt="Albert's GitHub Stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertmnuel&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=3B82F6&text_color=94A3B8&border_radius=12&hide_border=true" width="100%" alt="Albert's Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Albertmnuel&layout=compact&theme=tokyonight&bg_color=0F172A&title_color=3B82F6&text_color=94A3B8&border_radius=12&hide_border=true" width="100%" alt="Albert's Top Languages" />
 </div>
