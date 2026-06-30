@@ -28,8 +28,10 @@
 
 <h3 align="left">My GitHub Statistics:</h3>
 
-![Albert's Stats](https://github-readme-stats.vercel.app/api?username=Albertmnuel&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://img.shields.io/badge/Total%20Contributions-183%20commits-brightgreen?style=for-the-badge&logo=github" alt="Contributions" />
+</p>
 
-![Albert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Albertmnuel&layout=compact&theme=tokyonight)
-
-![Albert's Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=Albertmnuel&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albertmnuel&theme=tokyonight" alt="Albert's Coding Streak" />
+</p>
